@@ -2,7 +2,7 @@
 // Course data file for the Study Tool
 // To update: edit this file and re-import into index.html
 
-const CSE463_DATA = {
+window.CSE463_DATA = {
     code: "CSE 463",
     name: "Introduction to Human Computer Interaction",
     prof: "Dr. Atkinson",

@@ -2,7 +2,7 @@
 // Course data file for the Study Tool
 // To update: edit this file and re-import into index.html
 
-const CSE478_DATA = {
+window.CSE478_DATA = {
     code: "CSE 478",
     name: "Foundations of Data Visualization",
     prof: "Dr. Atkinson",
